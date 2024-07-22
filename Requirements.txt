@@ -1,0 +1,9 @@
+pyaudio
+speechrecognition
+setuptools(distutils)
+googletrans==4.0.0-rc1
+gtts
+playsound
+pygame
+pydub
+google.generativeai
